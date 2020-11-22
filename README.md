@@ -1,8 +1,5 @@
 ### 你好！ 👋
 
-<!--
-**FINCTIVE/FINCTIVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Blog(Chinese): [造物指南](http://finctive.com/) 
 
 I am a CS student / backend developer, focusing on Golang / Linux.
