@@ -8,4 +8,4 @@ Also, I am a learner for fun, my secondary skills: 🎮 Unity 3D, 🎛 Music, �
 
 📫 How to reach me:
 - email: finctive@qq.com
-- Telegram: @finctive
+- Telegram: [@finctive](https://t.me/finctive)
